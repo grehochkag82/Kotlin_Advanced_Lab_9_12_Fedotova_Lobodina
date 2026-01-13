@@ -16,3 +16,4 @@ git clone https://github.com/grehochkag82/Kotlin_Advanced_Lab_9_12_Fedotova_Lobo
 Федотова и Лободина
 ## Лицензия
 Проект создан в учебных целях
+# шаг 16 
